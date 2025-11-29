@@ -7,7 +7,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bc91902-e3cc-40c5-b57b-fb167ac8609d" name="Changes" comment="" />
+    <list default="true" id="4bc91902-e3cc-40c5-b57b-fb167ac8609d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/component/JwtAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/dto/UserValidationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/streamLit/AuthService/authService/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/streamLit/AuthService/authService/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatewayService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatewayService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/controller/SeriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/controller/SeriesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/services/SeriesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/services/SeriesService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +32,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -53,6 +68,9 @@
     &quot;Docker.docker.streamlit-content-minio: Compose Deployment.executor&quot;: &quot;Run&quot;,
     &quot;Docker.docker: Compose Deployment.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/parth/OneDrive/Desktop/StreamLit/eurekaService/pom.xml&quot;,
@@ -157,10 +175,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.GatewayServiceApplication" />
+        <item itemvalue="Application.SeriesServiceApplication" />
         <item itemvalue="Application.UploadServiceApplication" />
         <item itemvalue="Application.StreamingServiceApplication" />
         <item itemvalue="Application.AuthServiceApplication" />
-        <item itemvalue="Application.SeriesServiceApplication" />
       </list>
     </recent_temporary>
   </component>

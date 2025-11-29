@@ -27,6 +27,9 @@ public class SeriesService {
         return seriesRepository.findByGenreIgnoreCase(genre);
     }
 
+    public SeriesEntity getById( String id){
+        return  seriesRepository.findById(id).orElse(null);
+    }
 
 
 }

@@ -30,4 +30,9 @@ public class SeriesController {
         return ResponseEntity.ok(seriesService.getByGenre(genre));
     }
 
+    @GetMapping("/getById/{id}")
+    public ResponseEntity<?> getById(@PathVariable String id){
+        return  ResponseEntity.ok(seriesService.getById(id));
+    }
+
 }
