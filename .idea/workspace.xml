@@ -8,17 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bc91902-e3cc-40c5-b57b-fb167ac8609d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/component/JwtAuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/config/WebClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gatewayService/src/main/java/com/example/gatewayService/dto/UserValidationResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AuthService/src/main/java/com/streamLit/AuthService/authService/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuthService/src/main/java/com/streamLit/AuthService/authService/controllers/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatewayService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayService/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatewayService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/controller/SeriesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/controller/SeriesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/services/SeriesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/seriesService/src/main/java/com/example/seriesService/services/SeriesService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

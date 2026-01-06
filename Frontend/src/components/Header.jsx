@@ -17,7 +17,7 @@ export default function Header() {
 
       {/* Center: Navigation */}
       <nav className="hidden md:flex gap-6 text-lg">
-        <Link to="/" className="hover:text-purple-400 transition">Home</Link>
+        <Link to="/" className="hover:text-purple-400 transition">Homee</Link>
         <Link to="/about" className="hover:text-purple-400 transition">About</Link>
       </nav>
 
